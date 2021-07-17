@@ -15,6 +15,8 @@ And this includes GUI, PDBC and Data Science
 This is about Studennt Maanagement System Project
 
 The basic purpose of this system is to add student data, update and delete it.
+
+For reference images are added in the image folder. 
 	
 ## Technologies
 Python 3.8.9
